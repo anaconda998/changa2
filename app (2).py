@@ -142,7 +142,7 @@ poem_parts = [
     "You made me feel safe… like home never left me, it just waited in your eyes.",
     "I never rushed to name this feeling.",
     "Because fleeting things chase labels — but real ones grow silently.",
-    "Now you’re leaving. And something inside me has quietly shifted… like saying goodbye not to a friend, but to a possible future.",
+    "Now you’re leaving. And something inside me has quietly shifted… like saying goodbye not just to a friend, but to a possible future.",
     "Even now, I don’t seek answers — just one last promise:",
     "That you live the life your heart dreams of.",
     "And.......",
